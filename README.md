@@ -1,9 +1,9 @@
-## Pedro Henrique Martini �
+## Pedro Henrique Martini 
 
 
 ### About me
 
-hello, I'm a computer science student at USJT, Universidade São Judas Tadeu, I like to always be learning new things like new languages and tools, which may be adding to my knowledge
+hello, I'm a computer science student at USJT, Universidade São Judas Tadeu, I like to always be learning new things like new languages and tools, which may be adding to my knowledge.
 
 
 ### Onde me encontrar/Where to find me...
