@@ -12,7 +12,7 @@ hello, I'm a computer science student at USJT, Universidade São Judas Tadeu, I 
 [![Gmail Badge](https://img.shields.io/badge/-pederiquemartine@gmail.com-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pederiquemartine@gmail.com)](mailto:pederiquemartine@gmail.com)
 
 
-### Linguagens e Tecnologias que eu uso/Languages and Technologies that I use...
+### /Languages and Technologies that I use.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -32,18 +32,17 @@ hello, I'm a computer science student at USJT, Universidade São Judas Tadeu, I 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmorais7)](https://github.com/miguelmorais7/github-readme-stats)
 
 
-### Interesses/Interests 🤔 
+### Interests:
 
 - DB Programming
 - Design Patterns
-- Mainframe Programming
 - Web and Mobile application
 
 
 [Website] 💻 - Working on it.
 
 
-### Obrigado por ter lido até aqui :)
+### Thanks!!!
  
 
 <!--
