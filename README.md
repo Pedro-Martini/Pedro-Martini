@@ -9,7 +9,7 @@ hello, I'm a computer science student at USJT, Universidade São Judas Tadeu, I 
 ### Onde me encontrar/Where to find me...
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/miguelmorais7)](https://github.com/miguelmorais7)
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Morais-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-costa-de-morais-751b8a145/)](https://www.linkedin.com/in/miguel-costa-de-morais-751b8a145/) 
-[![Gmail Badge](https://img.shields.io/badge/-miguelmorais.mcm@gmail.com-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelmorais.mcm@gmail.com)](mailto:miguelmorais.mcm@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pederiquemartine@gmail.com-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pederiquemartine@gmail.com)](mailto:pederiquemartine@gmail.com)
 
 
 ### Linguagens e Tecnologias que eu uso/Languages and Technologies that I use...
