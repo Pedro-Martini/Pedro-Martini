@@ -29,7 +29,7 @@ hello, I'm a computer science student at USJT, Universidade São Judas Tadeu, I 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmorais7)](https://github.com/miguelmorais7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BifeAncho)](https://github.com/BifeAncho/github-readme-stats)
 
 
 ### Interests:
