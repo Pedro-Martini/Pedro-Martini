@@ -7,8 +7,8 @@ hello, I'm a computer science student at USJT, Universidade São Judas Tadeu, I 
 
 
 ### Onde me encontrar/Where to find me...
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/miguelmorais7)](https://github.com/miguelmorais7)
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Martini-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-costa-de-morais-751b8a145/)](https://www.linkedin.com/in/miguel-costa-de-morais-751b8a145/) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BifeAncho)](https://github.com/BifeAncho)
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Martini-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-martini1203/)](https://www.linkedin.com/in/pedro-martini1203/) 
 [![Gmail Badge](https://img.shields.io/badge/-pederiquemartine@gmail.com-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pederiquemartine@gmail.com)](mailto:pederiquemartine@gmail.com)
 
 
