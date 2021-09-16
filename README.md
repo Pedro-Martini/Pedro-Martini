@@ -28,6 +28,7 @@ hello, I'm a computer science student at USJT, Universidade São Judas Tadeu, I 
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![React-native](https://img.shields.io/badge/-ReactNative-007ACC?style=flat-square&logo=React-Native&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BifeAncho)](https://github.com/BifeAncho/github-readme-stats)
 
