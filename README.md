@@ -30,7 +30,7 @@ hello, I'm a computer science student at USJT, Universidade São Judas Tadeu, I 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BifeAncho)](https://github.com/BifeAncho/github-readme-stats)
+
 
 
 ### Interests:
