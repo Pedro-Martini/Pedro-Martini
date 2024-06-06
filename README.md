@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcfcfc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Martini;I'm+22+years+old;I'm+from+Brazil;I+Graduated+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pedro-Martini&bg_color=0320fc7&color=037bfc&line=0320fc&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
